@@ -1,7 +1,7 @@
 ## Oiii!, Eu sou a Maria Fernanda
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando Javascript e React
+- 🔭 Atualmente estudando front e back-end
+- 🌱 Estudando Javascript, React, Java e Python
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Maria-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
