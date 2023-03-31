@@ -1,6 +1,6 @@
 ## Oiii!, Eu sou a Maria Fernanda
 
-- 🔭 Atualmente estudando front 
+- 🔭 Atualmente estudando front e backend
 - 🌱 Estudando Javascript, React, Java e Python
 
 <div style="display: inline_block"><br>
