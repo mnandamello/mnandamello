@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+
 ## Oiii!, Eu sou a Maria Fernanda
 
 - 🔭 Atualmente estudando front e backend
@@ -14,8 +16,8 @@
   
   <div>
   
-  <img ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnandamello&show_icons=true&theme=radical)/>
-  <img [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnandamello&layout=compact)](https://github.com/anuraghazra/github-readme-stats)/>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnandamello&show_icons=true&theme=radical)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnandamello&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   </div>
   
   
@@ -27,3 +29,4 @@
   
 </div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
