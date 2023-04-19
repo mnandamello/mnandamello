@@ -14,8 +14,8 @@
   
   <div>
   
-  <img height="30px" width="30px" ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnandamello&show_icons=true&theme=radical)/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnandamello&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <img ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnandamello&show_icons=true&theme=radical)/>
+  <img [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnandamello&layout=compact)](https://github.com/anuraghazra/github-readme-stats)/>
   </div>
   
   
