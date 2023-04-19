@@ -12,9 +12,12 @@
 </div>
 
   
+  <div>
   
-  ![Anurag's GitHub stats height="30" width="40"](https://github-readme-stats.vercel.app/api?username=mnandamello&show_icons=true&theme=radical)
+  <img height="30px" width="30px" ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnandamello&show_icons=true&theme=radical)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnandamello&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
+  
   
  <div> 
   <a href="https://instagram.com/mnandamello" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -24,9 +27,3 @@
   
 </div>
 
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mnandamelloshow_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mnandamello=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
