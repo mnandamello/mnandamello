@@ -13,7 +13,7 @@
 <h2 align="center">🚀 Principais tecnologias:</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,vuejs,nodejs,cs,dotnet,nestjs,react,mysql,git,github,vscode,visualstudio,figma,&perline=14" />
+  <img src="https://skillicons.dev/icons?i=jS,ts,vuejs,nodejs,cs,dotnet,java,spring,python,mysql,aws,git,github,&perline=14" />
 </div>
   
   
