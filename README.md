@@ -2,18 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Maria+Fernanda;I'm+20+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mnandamello&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Maria Fernanda github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnandamello&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-</div>
-
 <br><br>
 
 <h2 align="center">🚀 Principais tecnologias:</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=jS,ts,vuejs,nodejs,cs,dotnet,java,spring,python,mysql,aws,git,github,&perline=14" />
+  <img src="https://skillicons.dev/icons?i=java,spring,dotnet,python,jS,ts,vuejs,nodejs,mysql,aws,git,github,&perline=14" />
 </div>
   
   
